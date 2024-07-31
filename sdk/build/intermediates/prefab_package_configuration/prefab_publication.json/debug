@@ -1,0 +1,26 @@
+{
+  "installationFolder": "C:\\Users\\lisse\\AndroidStudioProjects\\proyecto\\sdk\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\lisse\\AndroidStudioProjects\\proyecto\\sdk\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": [
+          {
+            "abiName": "armeabi-v7a",
+            "abiApi": 24,
+            "abiNdkMajor": 25,
+            "abiStl": "c++_shared",
+            "abiLibrary": "C:\\Users\\lisse\\AndroidStudioProjects\\proyecto\\sdk\\.cxx\\Debug\\4h4l3e5e\\armeabi-v7a\\libopencv_jni_shared.a",
+            "abiAndroidGradleBuildJsonFile": "C:\\Users\\lisse\\AndroidStudioProjects\\proyecto\\sdk\\.cxx\\Debug\\4h4l3e5e\\armeabi-v7a\\android_gradle_build.json"
+          }
+        ]
+      }
+    ]
+  }
+}
